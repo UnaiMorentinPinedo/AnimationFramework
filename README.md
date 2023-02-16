@@ -2,7 +2,7 @@
 
 Animation framework implemented in C++ from scratch. It uses GLTF to load skinned models and animations. Capable of creating 1D and 2D blend spaces in the editor. Implementation of Inverse Kinematics moving an end-effector in the editor. Also, implemented curve motion of animated objects.
 
-Link to a video showcasing mentioned techniques: https://www.youtube.com/watch?v=Xyjhoejkj-I&t=4s
+Link to video showcasing the demo: https://www.youtube.com/watch?v=Xyjhoejkj-I&t=4s
 
 ## Blending
 
