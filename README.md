@@ -6,7 +6,7 @@ Link to video showcasing the demo: https://www.youtube.com/watch?v=Xyjhoejkj-I&t
 
 ## Blending
 
-1D and 2D Animation blending. Implemented a solid API for handling 1D and 2D blending. 1D blending uses blend Lerp  and 2D uses barycentric coordinates.
+1D and 2D Animation blending. Implemented a solid API for handling 1D and 2D blending. 1D blending uses blend Lerp  and 2D uses Barycentric coordinates.
 
 ## IK
 
