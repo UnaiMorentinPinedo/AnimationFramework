@@ -18,4 +18,4 @@ Cuve motion of animated object with root motion based on distance, speed and ori
 
 ## Skeletal Animation
 
-Implementation of skeletal animation for skinned models with complex skeleton such as articulated humna-like (biped) models containing at least 16 links. 
+Implementation of skeletal animation for skinned models with complex skeleton such as articulated human-like (biped) models containing at least 16 links. 
